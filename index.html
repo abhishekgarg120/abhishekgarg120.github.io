@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
     <title>Hello, World! - A-Frame</title>
     <meta name="description" content="Hello, World! - A-Frame">
     <script src="https://aframe.io/releases/0.3.2/aframe.min.js"></script>
-  </head>
-  <body>
-    <a-scene>
-     <a-sky src="./render1.jpeg" rotation="0 0 0"></a-sky>
-   </a-scene>
-  </body>
+</head>
+<body>
+<a-scene>
+    <a-sky src="./bg.jpeg" rotation="0 0 0"></a-sky>
+
+    <img src="card.png" id="logo"/>
+
+    <a-plane src="#logo" height="10" width="10" rotation="0 0 0" position="0 5 -60"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 45 0" position="-30 5 -30"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 90 0" position="-60 5 0"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 135 0" position="-30 5 30"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 180 0" position="0 5 60"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 225 0" position="30 5 30"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 270 0" position="60 5 0"></a-plane>
+    <a-plane src="#logo" height="10" width="10" rotation="0 315 0" position="30 5 -30"></a-plane>
+
+</a-scene>
+</body>
 </html>
