@@ -16,7 +16,7 @@ Highly versatile technology professional with 14 years of experience in IT, DevO
 -   **IT & Infrastructure Management:** IT Infrastructure, Network Security, VPNs, Hypervisors, Server Management, Renderfarm Setup
 -   **CloudOps:** AWS, OpenStack, Virtualization (VMware, Hyper-V, KVM)
 -   **SecOps:** Information Security Best Practices, ISO Standards Compliance, IT Security Integration
--   **DevOps & Automation:** CI/CD Pipelines (Jenkins, GitLab CI), IaC (Terraform, Ansible, Salt), Docker, Vault
+-   **DevOps & Automation:** CI/CD Pipelines (Jenkins, GitLab CI), IaC (Terraform, Ansible, Salt), Containerisation (Docker, LXC)
 -   **Full Stack Development:** Python, JavaScript, Bash, Go (Golang), Dart; Django, React, Flutter
 -   **API Integrations:** Salesforce, Jira, Stripe, Payment Gateways, RESTful APIs
 -   **Ongoing Learning:** Go (Golang), Dart, Flutter
