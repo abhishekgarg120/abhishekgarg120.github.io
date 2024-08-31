@@ -1,7 +1,7 @@
 ### **Abhishek Garg**
 
 [LinkedIn Profile](https://www.linkedin.com/in/abhishekgarg120/)  
-**Phone:** +44 744 034 1517 | **Email:** abhishekgarg120@gmail.com | **Location:** London, United Kingdom
+**Phone:** +44 744-034-1517 | **Email:** abhishekgarg120@gmail.com | **Location:** London, United Kingdom
 
 ---
 
@@ -13,18 +13,17 @@ Highly versatile technology professional with 14 years of experience in IT, DevO
 
 ### **Skills**
 
--   **IT & Infrastructure Management:** IT Infrastructure, Network Security, VPNs, Hypervisors, Server Management, Renderfarm Setup
--   **CloudOps:** AWS, OpenStack, Virtualization (VMware, Hyper-V, KVM)
+-   **IT & Infrastructure Management:** IT Infrastructure, Network Security, VPN In, Hypervisors, Server Management, Renderfarm Setup
+-   **CloudOps:** AWS, GCP, Azure, OpenStack, Virtualization (VMware, Hyper-V, KVM)
 -   **SecOps:** Information Security Best Practices, ISO Standards Compliance, IT Security Integration
 -   **DevOps & Automation:** CI/CD Pipelines (Jenkins, GitLab CI), IaC (Terraform, Ansible, Salt), Containerisation (Docker, LXC)
--   **Full Stack Development:** Python, JavaScript, Bash, Go (Golang), Dart; Django, React, Flutter
+-   **Full Stack Development:** Python, JavaScript, Bash, Go (Golang), Dart, Django, React, Flutter
 -   **API Integrations:** Salesforce, Jira, Stripe, Payment Gateways, RESTful APIs
 -   **Ongoing Learning:** Go (Golang), Dart, Flutter
 
 ---
 
 ### **Professional Experience**
-
 
 **Director of Information Security**  
 _Dimension Studios | London, UK | Oct 2023 - Present_
@@ -36,7 +35,6 @@ _Dimension Studios | London, UK | Oct 2023 - Present_
 -   Manage the deployment and maintenance of security tools, reducing vulnerabilities.
 -   Collaborate with senior leadership to align IT security initiatives with business goals, ensuring that security measures support overall company growth and innovation.
 
-  
 **Director / Founder**  
 _Chace Software Solutions | Maharashtra, India | July 2021 - Present_
 
@@ -46,7 +44,6 @@ _Chace Software Solutions | Maharashtra, India | July 2021 - Present_
 -   Oversee IT infrastructure, including server setup, virtualization, and cloud services (AWS, OpenStack).
 -   Develop and execute SecOps strategies, ensuring data protection and compliance with industry standards.
 
-
 **Head of Technology**  
 _Legend 3D | Pune, India / California, US | Feb 2020 - Jun 2021_
 
@@ -55,7 +52,6 @@ _Legend 3D | Pune, India / California, US | Feb 2020 - Jun 2021_
 -   Implemented and maintained DevOps practices, enhancing deployment efficiency and reducing time-to-market.
 -   Standardized IT operations across offices, ensuring compliance with industry standards and improving productivity.
 -   Advised the executive team on technology trends and infrastructure investments, driving innovation.
-
 
 **Head of Pipeline Development**  
 _Legend 3D | Pune, India / California, US | Dec 2018 - Feb 2020_
@@ -98,7 +94,7 @@ _Digicaptions India Pvt Ltd | Pune, India | Sep 2011 - Jan 2012_
 _Digicaptions India Pvt Ltd | Pune, India | Jul 2011 - Aug 2011_
 
 **Various Other Jobs**  
-_Digicaptions India Pvt Ltd | Pune, India | Jun 2011 - Jun 2011_
+_Digicaptions India Pvt Ltd | India | Jun 2011 - Jun 2011_
 
 ---
 
@@ -112,3 +108,4 @@ _National School of Open Learning | 2007-2008_
 
 **Secondary School Certificate**  
 _Hansraj Public High School | 2004-2005_
+
