@@ -74,7 +74,7 @@ _Legend 3D | Pune, India | Oct 2017 - Nov 2018_
 **Pipeline Development Lead**  
 _Trace VFX | Mumbai, India | Nov 2013 - Oct 2017_
 
--   Led the development of a custom CRM product from scratch, connecting and automating business processes across the studio.
+-   Led the development of a custom ERP product from scratch, connecting and automating business processes across the studio.
 -   Collaborated with stakeholders to define requirements, ensuring the CRM aligned with the needs of various departments, including production, finance, and client services.
 -   Designed and implemented the backend architecture, utilizing Python and Django, to support scalable and reliable CRM functionality.
 -   Integrated the CRM with existing tools and systems, automating workflows and improving data accuracy across the business.
