@@ -18,7 +18,7 @@ Highly versatile technology professional with 14 years of experience in IT, DevO
 -   **SecOps:** Information Security Best Practices, ISO Standards Compliance, IT Security Integration
 -   **DevOps & Automation:** CI/CD Pipelines (Jenkins, GitLab CI), IaC (Terraform, Ansible, Salt), Containerisation (Docker, LXC)
 -   **Full Stack Development:** Python, JavaScript, Bash, Go (Golang), Dart, Django, React, Flutter
--   **API Integrations:** Salesforce, Jira, Stripe, Payment Gateways, RESTful APIs
+-   **API Integrations:** Salesforce, Jira, Stripe, ShotGrid, Ftrack, Payment Gateways, RESTful APIs
 -   **Ongoing Learning:** Go (Golang), Dart, Flutter
 
 ---
@@ -75,12 +75,12 @@ _Legend 3D | Pune, India | Oct 2017 - Nov 2018_
 **Pipeline Development Lead**  
 _Trace VFX | Mumbai, India | Nov 2013 - Oct 2017_
 
--   Led the development of a custom ERP product from scratch, connecting and automating business processes across the studio.
+-   Led the development of a custom ERP product from scratch directly with the CTO, connecting and automating business processes across the studio.
+-   Enhanced business efficiency by automating client communications, project tracking, and resource management through the ERP system.
 -   Collaborated with stakeholders to define requirements, ensuring the ERP aligned with the needs of various departments, including production, finance, and client services.
 -   Designed and implemented the backend architecture, utilizing Python and Django, to support scalable and reliable ERP functionality.
 -   Integrated the ERP with existing tools and systems, automating workflows and improving data accuracy across the business.
 -   Managed a team of developers, providing technical guidance and ensuring timely delivery of project milestones.
--   Enhanced business efficiency by automating client communications, project tracking, and resource management through the ERP system.
 
 **Pipeline Developer**  
 _Prime Focus | Mumbai, India | Feb 2013 - Nov 2013_
@@ -95,7 +95,7 @@ _Digicaptions India Pvt Ltd | Pune, India | Sep 2011 - Jan 2012_
 _Digicaptions India Pvt Ltd | Pune, India | Jul 2011 - Aug 2011_
 
 **Various Other Jobs**  
-_Digicaptions India Pvt Ltd | India | Jun 2011 - Jun 2011_
+_India | Jun 2010 - Jun 2011_
 
 ---
 
