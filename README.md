@@ -13,7 +13,7 @@ Highly versatile technology professional with 14 years of experience in IT, DevO
 
 ### **Skills**
 
--   **IT & Infrastructure Management:** IT Infrastructure, Network Security, VPN In, Hypervisors, Server Management, Renderfarm Setup
+-   **IT & Infrastructure Management:** IT Infrastructure, Network Security, VPN, Hypervisors, Server Management, Renderfarm Setup
 -   **CloudOps:** AWS, GCP, Azure, OpenStack, Virtualization (VMware, Hyper-V, KVM)
 -   **SecOps:** Information Security Best Practices, ISO Standards Compliance, IT Security Integration
 -   **DevOps & Automation:** CI/CD Pipelines (Jenkins, GitLab CI), IaC (Terraform, Ansible, Salt), Containerisation (Docker, LXC)
@@ -34,6 +34,7 @@ _Dimension Studios | London, UK | Oct 2023 - Present_
 -   Collaborate with IT, DevOps, and legal teams to secure digital assets and intellectual property.
 -   Manage the deployment and maintenance of security tools, reducing vulnerabilities.
 -   Collaborate with senior leadership to align IT security initiatives with business goals, ensuring that security measures support overall company growth and innovation.
+-   Developing VFX studio's pipeline for IO requirements, integrating with softwares like ShotGrid, Ftrack.
 
 **Director / Founder**  
 _Chace Software Solutions | Maharashtra, India | July 2021 - Present_
@@ -108,4 +109,3 @@ _National School of Open Learning | 2007-2008_
 
 **Secondary School Certificate**  
 _Hansraj Public High School | 2004-2005_
-
