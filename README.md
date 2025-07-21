@@ -25,8 +25,15 @@ Highly versatile technology professional with 14 years of experience in IT, DevO
 
 ### **Professional Experience**
 
+**Chief Technology Officer**  
+_Artist Anywhere | London, UK | Nov 2024 - Present_
+-   Designing the Cloud infrastructure for Artist Anywhere Cloud.
+-   Working with the tech team to manage the physical infrastructure.
+-   Designing and developing the software stack to provide Studio in Cloud experience.
+
+
 **Director of Information Security**  
-_Dimension Studios | London, UK | Oct 2023 - Present_
+_Dimension Studios | London, UK | Oct 2023 - Nov 2024_
 
 -   Lead IT security integration across studio operations, ensuring compliance with ISO 27002 and NIST standards.
 -   Spearhead the adoption of TPN standards, enhancing the studio’s security posture.
@@ -35,6 +42,7 @@ _Dimension Studios | London, UK | Oct 2023 - Present_
 -   Manage the deployment and maintenance of security tools, reducing vulnerabilities.
 -   Collaborate with senior leadership to align IT security initiatives with business goals, ensuring that security measures support overall company growth and innovation.
 -   Developing VFX studio's pipeline for IO requirements, integrating with softwares like ShotGrid, Ftrack.
+
 
 **Director / Founder**  
 _Chace Software Solutions | Maharashtra, India | July 2021 - Present_
@@ -45,6 +53,7 @@ _Chace Software Solutions | Maharashtra, India | July 2021 - Present_
 -   Oversee IT infrastructure, including server setup, virtualization, and cloud services (AWS, OpenStack).
 -   Develop and execute SecOps strategies, ensuring data protection and compliance with industry standards.
 
+
 **Head of Technology**  
 _Legend 3D | Pune, India / California, US | Feb 2020 - Jun 2021_
 
@@ -53,6 +62,7 @@ _Legend 3D | Pune, India / California, US | Feb 2020 - Jun 2021_
 -   Implemented and maintained DevOps practices, enhancing deployment efficiency and reducing time-to-market.
 -   Standardized IT operations across offices, ensuring compliance with industry standards and improving productivity.
 -   Advised the executive team on technology trends and infrastructure investments, driving innovation.
+
 
 **Head of Pipeline Development**  
 _Legend 3D | Pune, India / California, US | Dec 2018 - Feb 2020_
@@ -63,6 +73,7 @@ _Legend 3D | Pune, India / California, US | Dec 2018 - Feb 2020_
 -   Oversaw the integration of third-party software, enhancing the functionality and compatibility of the studio’s pipeline.
 -   Played a key role in troubleshooting and resolving technical issues, ensuring minimal downtime.
 
+
 **Lead DevOps Engineer**  
 _Legend 3D | Pune, India | Oct 2017 - Nov 2018_
 
@@ -71,6 +82,7 @@ _Legend 3D | Pune, India | Oct 2017 - Nov 2018_
 -   Implemented containerization with Docker, reducing environment conflicts and streamlining deployments.
 -   Automated infrastructure management with Ansible and Terraform, improving provisioning speed and accuracy.
 -   Monitored system performance and proactively addressed issues, ensuring smooth operations and minimal downtime.
+
 
 **Pipeline Development Lead**  
 _Trace VFX | Mumbai, India | Nov 2013 - Oct 2017_
@@ -82,20 +94,26 @@ _Trace VFX | Mumbai, India | Nov 2013 - Oct 2017_
 -   Integrated the ERP with existing tools and systems, automating workflows and improving data accuracy across the business.
 -   Managed a team of developers, providing technical guidance and ensuring timely delivery of project milestones.
 
+
 **Pipeline Developer**  
 _Prime Focus | Mumbai, India | Feb 2013 - Nov 2013_
+
 
 **Technical Lead**  
 _Digicaptions India Pvt Ltd | Pune, India | Feb 2012 - Jan 2013_
 
+
 **Team Lead, Depth Compositing**  
 _Digicaptions India Pvt Ltd | Pune, India | Sep 2011 - Jan 2012_
+
 
 **Depth Compositing Artist**  
 _Digicaptions India Pvt Ltd | Pune, India | Jul 2011 - Aug 2011_
 
+
 **Various Other Jobs**  
 _India | Jun 2010 - Jun 2011_
+
 
 ---
 
